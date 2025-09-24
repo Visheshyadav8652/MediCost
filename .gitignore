@@ -1,0 +1,12 @@
+# Python
+*.pyc
+__pycache__/
+backend/.venv/
+
+# Node/React
+frontend/node_modules/
+frontend/build/
+.env
+
+setup.bat
+setup.sh
